@@ -1,0 +1,44 @@
+body {
+    background-color: blueviolet;
+}
+
+h1,h2 {
+    text-align: center;
+    background-color:lime;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+} 
+
+video {
+    display: block;
+    margin: auto;
+  } 
+
+  iframe{
+    display: block;
+    margin: auto;
+  }
+
+ .box3 {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-right: 200px;
+    padding-left: 210px;
+ }
+
+ 
+p {
+    border-style: solid;
+    border-radius: 15px ;
+    border-color: yellow;    
+    
+}
+
+.title {
+    background-color: aqua;
+}

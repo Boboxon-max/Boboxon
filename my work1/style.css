@@ -1,0 +1,53 @@
+body {
+    background-color:blueviolet;
+}
+
+
+
+h1, h2 {
+    text-align: center;
+    background-color:lime;
+}
+
+p {
+    border-style: solid;
+    border-radius: 15px ;
+    border-color: yellow;    
+    
+}
+
+.box {
+    padding-top: 10px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 30px;
+} 
+
+.title {
+    background-color: aqua;
+}
+
+.sarlavha {
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.box1 {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-right: 200px;
+    padding-left: 210px;
+}
+
+.box2 {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-right: 200px;
+    padding-left: 210px;
+}
